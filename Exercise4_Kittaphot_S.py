@@ -1,3 +1,4 @@
+'Variables settings'
 FE_score = 83.25
 GB_score = 79.00
 Intro_ComSys_score = 87.00
