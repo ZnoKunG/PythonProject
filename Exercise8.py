@@ -149,6 +149,8 @@ if username == "customer" and password == "abc":
             num1 = int(input("How many ? : "))
             TotalPrice += Snacks * num1
     print("Total Price : ",TotalPrice)
+else :
+    print("Incorrect Username/Password")
 
 
 
