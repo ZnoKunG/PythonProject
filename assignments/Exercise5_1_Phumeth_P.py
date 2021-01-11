@@ -1,0 +1,10 @@
+a = float(input())
+b = float(input())
+plus = a + b
+minus = a - b
+multiple = a * b
+divide = a / b
+print(a, "+", b, "=", plus)
+print(a, "-", b, "=", minus)
+print(a, "*", b, "=", multiple)
+print(a, "/", b, "=", divide)
